@@ -42,7 +42,7 @@
 - **DevTools**:
      <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,webpack,vscode,idea&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,postman,webpack,vscode,idea&perline=14" />
   </a>
 </p>  
 
