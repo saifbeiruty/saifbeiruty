@@ -28,7 +28,7 @@
   </a>
 </p> 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifbeiruty&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="saifbeiruty" /></p>
+
 
 - **Databases**:
      <p>
@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb&perline=14" />
   </a>
 </p>  
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifbeiruty&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="saifbeiruty" /></p>
 
 
 - **DevTools**:
