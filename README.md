@@ -1,16 +1,54 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Saif! <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 27px></picture></h1>
 
-<!--
-**saifbeiruty/saifbeiruty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img align="right" height="280" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="saif-pw" />
 
-Here are some ideas to get you started:
+- **Languages**:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <p>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,matlab&perline=10" />
+  </a>
+</p>  
+
+
+    
+- **Frontend Development**:
+    <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,html,css,d3,materialui,tailwind,bootstrap&perline=10" />
+  </a>
+</p>  
+
+
+- **Backend Development**:
+    <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,redis,raspberrypi,arduino&perline=14" />
+  </a>
+</p> 
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifbeiruty&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="saifbeiruty" /></p>
+
+- **Databases**:
+     <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb&perline=14" />
+  </a>
+</p>  
+
+
+
+- **DevTools**:
+     <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,webpack,vscode,idea&perline=14" />
+  </a>
+</p>  
+
+- **Other Frameworks and Libraries**:
+     <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,jest,prisma&perline=14" />
+  </a>
+</p>  
