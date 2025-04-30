@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saif! <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 27px></picture></h1>
+<h1 align="center">Hello <picture></h1>
 
   <img align="right" height="280" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="saif-pw" />
 
